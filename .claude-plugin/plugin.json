@@ -1,0 +1,11 @@
+{
+  "name": "shortdramakit",
+  "version": "0.1.0",
+  "description": "Organize and compare user-provided short-drama lists with sources and uncertainty preserved.",
+  "author": {
+    "name": "LeonTLoveless"
+  },
+  "homepage": "https://shortdramakit.com/",
+  "repository": "https://github.com/leontloveless/shortdramakit-skills",
+  "license": "MIT"
+}

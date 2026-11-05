@@ -1,0 +1,13 @@
+{
+  "name": "shortdramakit-skills",
+  "owner": {
+    "name": "LeonTLoveless"
+  },
+  "plugins": [
+    {
+      "name": "shortdramakit",
+      "source": "./",
+      "description": "Organize and compare user-provided short-drama lists."
+    }
+  ]
+}
